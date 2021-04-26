@@ -1,0 +1,47 @@
+.bai{
+    width: 980px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+#div1{
+
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+
+#div2{
+    height: 200px;
+    width: 200px;
+    background-color: orangered;
+    margin-top: 20px;
+}
+
+#div3{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    margin-top: 20px;
+}
+
+#div4{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    margin-top: 20px;
+}
+
+#div5{
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+    margin-top: 20px;
+    font-size: 14px;
+}
